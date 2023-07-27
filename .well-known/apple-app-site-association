@@ -3,18 +3,17 @@
         "apps": [],
         "details": [
             {
-                "appIDs": [
-                    "com.lippomalls.styles"
-                ],
-                "paths": [
-                    "*"
-                ]
+                "appID": "com.lippomalls.styles",
+                "paths": [ "*" ]
             }
         ]
-    },
-    "webcredentials": {
-        "apps": [
-            "com.lippomalls.styles"
-        ]
-    }
-}
+     },
+     "webcredentials": {
+        "apps": [ "com.lippomalls.styles" ]
+     },
+  
+  
+      "appclips": {
+          "apps": ["com.lippomalls.styles"]
+      }
+  }
